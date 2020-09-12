@@ -10,5 +10,6 @@ RUN apt-get install --assume-yes \
   gettext \
   git \
   g++ \
-  tar
+  tar \
+  make
 
